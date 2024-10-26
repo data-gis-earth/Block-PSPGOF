@@ -6,14 +6,25 @@ You can download the Dataset by this link [BaiDu Yun](https://pan.baidu.com/s/1T
 
 # Dataset structure
 ├─ Rural                           # Dataset name  
+
     ├─ images                      # Images captured by drone  
+    
     ├─ gt                            
+    
         └─ point_cloud.ply         # Ground truth point cloud  
+        
     ├─ val.json                    # image names for validation  
+    
     └─ geo_registration.txt        # The camera position corresponding to the image  
+    
 └─ PowerStation                    # Dataset name  
+
     ├─ images                      # Images captured by drone  
+    
     ├─ gt                            
+    
         └─ point_cloud.ply         # Ground truth point cloud  
+        
     ├─ val.json                    # image names for validation  
+    
     └─ geo_registration.txt        # The camera position corresponding to the image  
