@@ -17,4 +17,5 @@ You can download the Dataset by this link [BaiDu Yun](https://pan.baidu.com/s/1T
         ├─ gt
             └─ point_cloud.ply         # Ground truth point cloud
         ├─ val.json                    # image names for validation  
-        └─ geo_registration.txt        # The camera position corresponding to the image 
+        └─ geo_registration.txt        # The camera position corresponding to the image  
+    └─ video                           # video of novel view synthesis
