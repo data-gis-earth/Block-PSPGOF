@@ -5,6 +5,17 @@ Both the Power Station and Rural datasets were generated using industry drones. 
 # Dataset
 You can download the Dataset by this link [BaiDu Yun](https://pan.baidu.com/s/1TtI2ktSqrqIVHE0cfeZbLw) and the password is **_mmyr_**.  
 
+# video  
+
+
+https://github.com/user-attachments/assets/6409a264-45de-4eab-8350-1ed3587f2d2b
+
+
+https://github.com/user-attachments/assets/3911b8ab-ab79-48d4-9319-f3df416286c4
+
+
+
+
 # Dataset structure
     ├─ Rural                           # Dataset name  
         ├─ images                      # Images captured by drone  
