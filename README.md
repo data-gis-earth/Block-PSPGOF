@@ -6,7 +6,7 @@ Both the Power Station and Rural datasets were generated using industry drones. 
 You can download the Dataset by this link [BaiDu Yun](https://pan.baidu.com/s/1TtI2ktSqrqIVHE0cfeZbLw) and the password is **_mmyr_**.  
 
 # video  
-
+You can download the high-definition version from [BaiDu Yun](https://pan.baidu.com/s/1TtI2ktSqrqIVHE0cfeZbLw)
 
 https://github.com/user-attachments/assets/6409a264-45de-4eab-8350-1ed3587f2d2b
 
